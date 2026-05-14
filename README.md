@@ -5,12 +5,6 @@ Spatial Threat Observation & Rapid Mitigation (S.T.O.R.M) is a database-driven s
 
 ---
 
-## Student Information
-- **Name:** Musoni Nshuti Sam  
-- **Student ID:** 28857  
-
----
-
 ## Problem Statement
 Modern airspace monitoring systems must handle large volumes of sensor data while quickly identifying and responding to potential threats. Manual analysis is slow and error-prone, especially when dealing with real-time events. This project addresses the need for an automated, reliable, and scalable database solution for threat detection and alerting.
 
